@@ -9,8 +9,6 @@
 
 - [각종 모델 탐색 및 분석](https://github.com/ysmNew/IfeelEarth/tree/main/2nd_mini_hackathon(11.02-11.09))
 
---- 
-
 ### 해커톤 (11/10~12/13) 
 
 >- AIFFEL에서, 혹은 그 외의 활동을 통해 배워왔던 것을 기반으로 해서 실제적인 결과물을 만들어 내는 것
